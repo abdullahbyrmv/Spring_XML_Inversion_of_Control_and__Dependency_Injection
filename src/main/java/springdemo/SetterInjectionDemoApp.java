@@ -9,7 +9,7 @@ public class SetterInjectionDemoApp {
         ClassPathXmlApplicationContext context = new ClassPathXmlApplicationContext("applicationContext.xml");
 
         // Retrieve bean from spring container
-        CricketCoach myCricketCoach = context.getBean("myCricketCoach",CricketCoach.class);
+        CricketCoach myCricketCoach = context.getBean("myCricketCoach", CricketCoach.class);
 
         //Call methods on the bean
         System.out.println(myCricketCoach.getDailyWorkout());
