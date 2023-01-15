@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fb63a74b-88b4-47a4-bfc4-db2d844ce783" name="Changes" comment="Spring Inversion of Control and Dependency Injection">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/springdemo/SetterInjectionDemoApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/springdemo/SetterInjectionDemoApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/springdemo/TrackCoach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/springdemo/TrackCoach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/BeanScope-applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/BeanScope-applicationContext.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -248,7 +246,7 @@
       <workItem from="1673594536498" duration="6227000" />
       <workItem from="1673601194601" duration="280000" />
       <workItem from="1673697073766" duration="6134000" />
-      <workItem from="1673761298071" duration="2888000" />
+      <workItem from="1673761298071" duration="3374000" />
     </task>
     <task id="LOCAL-00001" summary="Spring Inversion of Control">
       <created>1673601286711</created>
@@ -278,7 +276,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673702967123</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Spring Inversion of Control and Dependency Injection">
+      <created>1673765829030</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1673765829030</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
